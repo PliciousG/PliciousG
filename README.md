@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Health Informatics with Data Science**
 
-- 👯 I’m looking to collaborate on **data projects, within and outside the field of health. Let's connect!**
+- 👯 I’m looking to collaborate on **data projects, within and outside the healthcare field. Let's connect!**
 
 - 📫 How to reach me **precious1gift@gmail.com**
 
