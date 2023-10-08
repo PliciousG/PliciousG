@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
 
-- 🌱 I’m currently learning **Health Informatics with Data Science**
+- 🌱 I’m currently studying **Health Informatics with Data Science**
 
 - 👯 I’m looking to collaborate on **data projects, within and outside the healthcare field. Let's connect!**
 
-- 📫 How to reach me **precious1gift@gmail.com**
+- 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on LinkedIn
 
 - ⚡ Fun fact **I am an artist, not the kind with a fancy title, but I create masterpieces in my free time just for the love of it!**
 
