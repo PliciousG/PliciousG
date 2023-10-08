@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
 
-- 🌱 I’m currently studying **Health Informatics with Data Science**
+- 🌱 I’m currently studying **Health Informatics with Data Science** at the University of Leeds
 
 - 👯 I’m looking to collaborate on **data projects, within and outside the healthcare field. Let's connect!**
 
