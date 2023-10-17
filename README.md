@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Precious-Gift</h1>
+<h1 align="center">Hi there!👋, I'm Precious-Gift</h1>
 <h3 align="center">MD on a Data-Infused Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
