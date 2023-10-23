@@ -1,3 +1,4 @@
+![Banner](https://github.com/PliciousG/PliciousG/blob/main/Banner.png)
 <h1 align="center">Hi there!👋, I'm Precious-Gift</h1>
 <h3 align="center">MD with a Digital Twist | Passionate about Innovation & Lifelong Learning</h3>
 
