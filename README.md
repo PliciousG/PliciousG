@@ -11,7 +11,7 @@
 
 - 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on LinkedIn
 
-- ⚡ Fun fact **I'm no Picasso, but I love to dabble in art when I've got some free time. Check out my banner- behold my creation!**
+- ⚡ Fun fact: **I'm no Picasso, but I love to dabble in art when I've got some free time. Check out my banner- behold my creation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
