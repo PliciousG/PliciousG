@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on **data projects, within and outside the healthcare field. Let's connect!**
 
 - 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on LinkedIn
-
+  
+- 🧾 While you are here, feel free to explore my collection of [professional development certificates](https://drive.google.com/drive/folders/1vwnaLyUtk2jQTdrOuGwFJ2VVcSiil3gN?usp=drive_link)
+  
 - ⚡ Fun fact: **I'm no Picasso, but I love to dabble in art when I've got some free time. Check out my banner- behold my creation!**
 
 <h3 align="left">Connect with me:</h3>
