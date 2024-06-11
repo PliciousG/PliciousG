@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
 
-- 🌱 Background in Medicine and I’m currently studying **Health Informatics with Data Science** at the University of Leeds
+- 🌱 I've a background in Medicine and I’m currently pursuing a degree in **Health Informatics with Data Science** at the University of Leeds
 
 - 👯 I’m looking to collaborate on **data projects, within and outside the health sector. Let's connect!**
 
