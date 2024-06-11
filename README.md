@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
 
-- 🌱 I’m currently studying **Health Informatics with Data Science** at the University of Leeds
+- 🌱 Background in Medicine and I’m currently studying **Health Informatics with Data Science** at the University of Leeds
 
-- 👯 I’m looking to collaborate on **data projects, within and outside the healthcare field. Let's connect!**
+- 👯 I’m looking to collaborate on **data projects, within and outside the health sector. Let's connect!**
 
 - 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on LinkedIn
   
