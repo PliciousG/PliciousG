@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data projects, within and outside the health sector. Let's connect!**
 
-- 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on LinkedIn
+- 📫 Send me an email @ **precious1gift@gmail.com** or connect with me on [LinkedIn](https://linkedin.com/in/precious-gift-alele/)
   
 - 🧾 While you are here, feel free to explore my collection of [professional development certificates](https://drive.google.com/drive/folders/1vwnaLyUtk2jQTdrOuGwFJ2VVcSiil3gN?usp=drive_link)
   
