@@ -1,11 +1,11 @@
 ![Banner](https://github.com/PliciousG/PliciousG/blob/main/Github_Banner.png)
 
 <h1 align="center">Hi there!👋, I'm Precious-Gift</h1>
-<h3 align="center">MD with a Digital Twist | Passionate about Innovation & Lifelong Learning</h3>
+<h3 align="center">MD with a Digital Twist | Passionate about Innovation in Healthcare & Lifelong Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pliciousg&label=Profile%20views&color=0e75b6&style=flat" alt="pliciousg" /> </p>
 
-- 🌱 Background in Medicine. I’m currently pursuing a degree in **Health Informatics with Data Science** at the University of Leeds
+- 🌱 Background in Medicine. I hold a masters degree in **Health Informatics with Data Science** from the University of Leeds
 
 - 👯 I’m looking to collaborate on **data projects, within and outside the health sector. Let's connect!**
 
